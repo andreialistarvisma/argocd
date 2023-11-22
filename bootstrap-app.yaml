@@ -9,7 +9,7 @@ spec:
     namespace: student-11
   project: default
   source:
-    repoURL: <YOUR GITHUB REPO>
+    repoURL: https://github.com/andreialistarvisma/argocd/
     targetRevision: HEAD
     path: apps
   syncPolicy:
